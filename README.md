@@ -3,7 +3,7 @@
 <!-- Animated Wave Header -->
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Asil%20Zain%20T%20A&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20Specialist&descAlignY=60&descSize=18" /> -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=250&section=header&text=Asil%20Zain%20T%20A&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20|%20Backend%20Developer%20|%20Java%20&%20Spring%20Boot&descAlignY=60&descSize=18)
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
