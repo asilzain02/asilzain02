@@ -288,7 +288,7 @@ open_to: ["SWE Roles", "Backend Engineering", "Java/Spring Boot", "Full Stack", 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=asilzain02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=asilzain02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=asilzain02&theme=algolia&no-frame=true&row=1&column=7" />
 
 </div>
 
